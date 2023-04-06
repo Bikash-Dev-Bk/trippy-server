@@ -1,0 +1,91 @@
+[
+    {
+        "id": "1001",
+        "name": "Paris, France",
+        "img": "https://wallpaperaccess.com/full/3212629.jpg",
+        "price":"$2800",
+        "description": "Experience the romantic charm of the city of love, stroll along the Seine river, visit iconic landmarks such as the Eiffel Tower and the Louvre Museum, and indulge in delicious French cuisine."
+        
+    },
+    {
+        "id": "1002",
+        "name": "Bali, Indonesia",
+        "price":"$2700",
+        "img": "https://c4.wallpaperflare.com/wallpaper/649/577/108/landscape-nature-water-sea-island-hd-wallpaper-preview.jpg",
+        "description": "Relax on beautiful beaches, explore vibrant cultural sites, hike to stunning waterfalls, and rejuvenate your mind and body with spa treatments and yoga retreats."
+    },
+    {
+        "id": "1003",
+        "name": "New York City, USA",
+        "price":"$2200",
+        "img": "https://newnypanel.com/sites/default/files/styles/16x9_md/public/2022-06/New-New-York-Panel-Homepage-Header-Image.jpg?h=a21ebe23&itok=RPooROrL",
+        "description": "Discover the excitement of the Big Apple, from world-class museums and Broadway shows to shopping and dining experiences, there's something for everyone in this cosmopolitan city."
+    },
+    {
+        "id": "1004",
+        "name": "Tokyo, Japan",
+        "img": "https://wallpaper.dog/large/962624.jpg",
+        "price":"$1500",
+        "description": "Experience the fusion of ancient and modern Japanese culture, indulge in delicious cuisine, and explore unique neighborhoods and landmarks such as Shibuya Crossing and the Tokyo Skytree"
+        
+    },
+    {
+        "id": "1005",
+        "name": "Santorini, Greece",
+        "price":"$2600",
+        "img": "https://images.alphacoders.com/905/thumb-1920-905325.jpg",
+        "description": " Bask in the beauty of white-washed buildings, blue-domed churches, and stunning views of the Aegean Sea, and savor delicious Greek cuisine and wines."
+    },
+    {
+        "id": "1006",
+        "name": "Dubai, UAE",
+        "price":"$3200",
+        "img": "https://wallpaperaccess.com/full/6599612.jpg",
+        "description": "Marvel at the futuristic architecture, shop at luxury malls, visit iconic landmarks such as the Burj Khalifa and the Palm Jumeirah, and experience Arabian hospitality."
+    },
+    {
+        "id": "1007",
+        "name": "Rome, Italy",
+        "img": "https://wallpaperaccess.com/full/389007.jpg",
+        "price":"$1600",
+        "description": "Explore ancient ruins such as the Colosseum and the Roman Forum, marvel at stunning Renaissance art and architecture, and indulge in delicious Italian cuisine."
+        
+    },
+    {
+        "id": "1008",
+        "name": "Sydney, Australia",
+        "price":"$1800",
+        "img": "https://rare-gallery.com/uploads/posts/390043-4k-wallpaper.jpg",
+        "description": "Enjoy breathtaking views of the Opera House and Harbour Bridge, relax on beautiful beaches, and explore vibrant neighborhoods such as Bondi and Surry Hills."
+    },
+    {
+        "id": "1009",
+        "name": "Machu Picchu, Peru",
+        "price":"$3400",
+        "img": "https://wallpapercave.com/wp/wp2301869.jpg",
+        "description": "Trek through the Andes Mountains and experience the stunning beauty of this ancient Incan site, and learn about the rich history and culture of Peru."
+    }
+    ,
+    {
+        "id": "1010",
+        "name": "London, England",
+        "img": "https://cdn.wallpapersafari.com/55/57/c35CRg.jpeg",
+        "price":"$2400",
+        "description": "Discover the rich history and culture of the city, from iconic landmarks such as Buckingham Palace and the Tower of London to world-class museums and shopping districts."
+        
+    },
+    {
+        "id": "1011",
+        "name": "Phuket, Thailand",
+        "price":"$1400",
+        "img": "https://wallpapercave.com/wp/wp2900052.jpg",
+        "description": "Relax on beautiful beaches, indulge in delicious Thai cuisine, and explore cultural sites such as the Big Buddha and the Old Town."
+    },
+    {
+        "id": "1012",
+        "name": "Barcelona, Spain",
+        "price":"$2200",
+        "img": "https://cutewallpaper.org/25/barcelona-the-city-wallpaper/3242216125.jpg",
+        "description": "Marvel at the unique architecture of Antoni Gaudi, stroll along the vibrant La Rambla street, and indulge in delicious Catalan cuisine and wines."
+    }
+]

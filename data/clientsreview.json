@@ -1,0 +1,31 @@
+[
+    {
+        "id": "1001",
+        "name": "Ashley Rodriguez",
+        "logo": "https://www.pngwing.com/en/free-png-vupuj",
+        "img": "https://wordpressboss.com/opb/vtravel-demo/assets/images/team/team1.jpg",
+        "review": "I can't imagine booking a trip without Trippy! They took care of everything and made the whole process stress-free. I had an amazing vacation thanks to their expertise and guidance."
+        
+    },
+    {
+        "id": "1002",
+        "name": "Michael Lee",
+        "logo": "https://www.pngwing.com/en/free-png-vupuj",
+        "img": "https://wordpressboss.com/opb/vtravel-demo/assets/images/team/team2.jpg",
+        "review": "Trippy is the only travel agency I trust with my vacations. Their team is knowledgeable, professional, and always goes above and beyond to make sure my trip is unforgettable."
+    },
+    {
+        "id": "1003",
+        "name": "Samantha Davis",
+        "logo": "https://www.pngwing.com/en/free-png-vupuj",
+        "img": "https://wordpressboss.com/opb/vtravel-demo/assets/images/team/team3.jpg",
+        "review": "Trippy made my travel dreams a reality! From start to finish, they were there every step of the way, providing great recommendations and top-notch service. Highly recommend!"
+    },
+    {
+        "id": "1004",
+        "name": "Emily Smith",
+        "logo": "https://www.pngwing.com/en/free-png-vupuj",
+        "img": "https://wordpressboss.com/opb/vtravel-demo/assets/images/team/team3.jpg",
+        "review": "I had an incredible experience booking my trip with Trippy. They helped me create a personalized itinerary that exceeded my expectations. I can't wait to plan my next adventure with them!"
+    }
+]

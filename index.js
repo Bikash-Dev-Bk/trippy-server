@@ -8,11 +8,16 @@ app.use(cors());
 const services = require('./data/services.json')
 const team = require('./data/team.json')
 const gallery = require('./data/gallery.json')
+const clientsreview = require('./data/clientsreview.json')
+const places = require('./data/places.json')
 
 app.get('/', (req, res) => {
   res.send('Trippy API running')
 })
 
+app.get('/places', (req, res) => {
+  res.send(places)
+})
 app.get('/services', (req, res) => {
   res.send(services)
 })
@@ -23,6 +28,10 @@ app.get('/team', (req, res) => {
 
 app.get('/gallery', (req, res) => {
   res.send(gallery)
+})
+
+app.get('/review', (req, res) => {
+  res.send(clientsreview)
 })
 
 app.listen(port, () => {

@@ -4,7 +4,7 @@
         "name": "Jonathon Doe",
         "img": "https://wordpressboss.com/opb/vtravel-demo/assets/images/team/team1.jpg",
         "role":"Taxi Driver",
-        "description": "I’d like to send you a sincere thank you for all of your assistance during my recent trip to Colorado."
+        "description": "Jonathan Doe is a skilled taxi driver with 10 years of experience. He's friendly, reliable, and knows the city like the back of his hand. You can trust him to get you to your destination on time and safely."
         
     },
     {
@@ -12,13 +12,13 @@
         "name": "Jessica Jui",
         "role":"Taxi Driver & Tour Guide",
         "img": "https://wordpressboss.com/opb/vtravel-demo/assets/images/team/team2.jpg",
-        "description": "I’d like to send you a sincere thank you for all of your assistance during my recent trip to Colorado."
+        "description": "Jessica Jui is a versatile taxi driver and tour guide with a wealth of knowledge about local attractions. She's reliable, friendly, and passionate about providing her passengers with an enjoyable and informative experience."
     },
     {
         "id": "1003",
         "name": "Monalisa Lui",
         "role":"Tour Guide",
         "img": "https://wordpressboss.com/opb/vtravel-demo/assets/images/team/team3.jpg",
-        "description": "I’d like to send you a sincere thank you for all of your assistance during my recent trip to Colorado."
+        "description": "Monalisa Lui is a knowledgeable and experienced tour guide who's passionate about sharing her love of travel with others. With her attention to detail and friendly demeanor, she'll make your trip an unforgettable experience."
     }
 ]
