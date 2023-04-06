@@ -1,0 +1,39 @@
+[
+    {
+        "id": "1001",
+        "title": "Personalized Matching",
+        "img": "https://cdn-icons-png.flaticon.com/512/6924/6924811.png",
+        "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+        
+    },
+    {
+        "id": "1002",
+        "title": "Wide Variety Of Destinations",
+        "img": "https://www.paradymemanagement.com/wp-content/uploads/2015/08/icon04.png",
+        "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+    },
+    {
+        "id": "1003",
+        "title": "Highly Qualified Service",
+        "img": "https://cdn-icons-png.flaticon.com/512/6924/6924811.png",
+        "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+    },
+    {
+        "id": "1004",
+        "title": "Handpicked Hotels",
+        "img": "https://www.paradymemanagement.com/wp-content/uploads/2015/08/icon04.png",
+        "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+    },
+    {
+        "id": "1005",
+        "title": "Best Price Guarantee",
+        "img": "https://cdn-icons-png.flaticon.com/512/6924/6924811.png",
+        "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+    },
+    {
+        "id": "1006",
+        "title": "24/7 Support",
+        "img": "https://www.paradymemanagement.com/wp-content/uploads/2015/08/icon04.png",
+        "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+    }
+]

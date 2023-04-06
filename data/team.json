@@ -1,0 +1,24 @@
+[
+    {
+        "id": "1001",
+        "name": "Jonathon Doe",
+        "img": "https://wordpressboss.com/opb/vtravel-demo/assets/images/team/team1.jpg",
+        "role":"Taxi Driver",
+        "description": "I’d like to send you a sincere thank you for all of your assistance during my recent trip to Colorado."
+        
+    },
+    {
+        "id": "1002",
+        "name": "Jessica Jui",
+        "role":"Taxi Driver & Tour Guide",
+        "img": "https://wordpressboss.com/opb/vtravel-demo/assets/images/team/team2.jpg",
+        "description": "I’d like to send you a sincere thank you for all of your assistance during my recent trip to Colorado."
+    },
+    {
+        "id": "1003",
+        "name": "Monalisa Lui",
+        "role":"Tour Guide",
+        "img": "https://wordpressboss.com/opb/vtravel-demo/assets/images/team/team3.jpg",
+        "description": "I’d like to send you a sincere thank you for all of your assistance during my recent trip to Colorado."
+    }
+]
