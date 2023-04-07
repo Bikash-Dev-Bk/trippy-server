@@ -1,0 +1,46 @@
+[
+    {
+        "id": "1001",
+        "name": "Paris",
+        "img": "https://wallpaperaccess.com/full/3212629.jpg",
+        "price":"$2800",
+        "country": "France"
+        
+    },
+    {
+        "id": "1002",
+        "name": "Bali",
+        "price":"$2700",
+        "img": "https://c4.wallpaperflare.com/wallpaper/649/577/108/landscape-nature-water-sea-island-hd-wallpaper-preview.jpg",
+        "country": "Indonesia"
+    },
+    {
+        "id": "1003",
+        "name": "New York City",
+        "price":"$2200",
+        "img": "https://newnypanel.com/sites/default/files/styles/16x9_md/public/2022-06/New-New-York-Panel-Homepage-Header-Image.jpg?h=a21ebe23&itok=RPooROrL",
+        "country": "USA"
+    },
+    {
+        "id": "1004",
+        "name": "Tokyo",
+        "img": "https://wallpaper.dog/large/962624.jpg",
+        "price":"$1500",
+        "country": "Japan"
+        
+    },
+    {
+        "id": "1005",
+        "name": "Santorini",
+        "price":"$2600",
+        "img": "https://images.alphacoders.com/905/thumb-1920-905325.jpg",
+        "country": "Greece"
+    },
+    {
+        "id": "1006",
+        "name": "Dubai",
+        "price":"$3200",
+        "img": "https://wallpaperaccess.com/full/6599612.jpg",
+        "country": "UAE"
+    }
+]

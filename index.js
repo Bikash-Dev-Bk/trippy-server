@@ -10,6 +10,7 @@ const team = require('./data/team.json')
 const gallery = require('./data/gallery.json')
 const clientsreview = require('./data/clientsreview.json')
 const places = require('./data/places.json')
+const popularplaces = require('./data/popularplaces.json')
 
 app.get('/', (req, res) => {
   res.send('Trippy API running')
@@ -18,6 +19,11 @@ app.get('/', (req, res) => {
 app.get('/places', (req, res) => {
   res.send(places)
 })
+
+app.get('/popularplaces', (req, res) => {
+  res.send(popularplaces)
+})
+
 app.get('/services', (req, res) => {
   res.send(services)
 })
