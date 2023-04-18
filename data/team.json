@@ -4,7 +4,7 @@
         "name": "Jonathon Doe",
         "img": "https://wordpressboss.com/opb/vtravel-demo/assets/images/team/team1.jpg",
         "role":"Travel Consultant",
-        "description": "Jonathan Doe is a skilled taxi driver with 10 years of experience. He's friendly, reliable, and knows the city like the back of his hand. You can trust him to get you to your destination on time and safely."
+        "description": "Jonathan Doe is an experienced Travel Consultant with a passion for creating unforgettable travel experiences. He specializes in crafting customized itineraries and providing exceptional customer service."
         
     },
     {
@@ -12,7 +12,7 @@
         "name": "Jessica Jui",
         "role":"Travel Agent",
         "img": "https://wordpressboss.com/opb/vtravel-demo/assets/images/team/team2.jpg",
-        "description": "Jessica Jui is a versatile taxi driver and tour guide with a wealth of knowledge about local attractions. She's reliable, friendly, and passionate about providing her passengers with an enjoyable and informative experience."
+        "description": "Jessica Jui is an experienced travel agent with over 10 years in the industry. She is detail-oriented and skilled in creating personalized itineraries to meet her clients' unique travel needs and preferences."
     },
     {
         "id": "1003",
